@@ -6,9 +6,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-def1.txt
-def2.txt
-def3.txt
+* (Дефект 1)[https://github.com/YuryFedoseev/Les1_1/issues/1]
+* (Дефект 2)[https://github.com/YuryFedoseev/Les1_1/issues/2]
+* (Дефект 3)[https://github.com/YuryFedoseev/Les1_1/issues/3]
 
 
  ### Описание процесса тестирования
