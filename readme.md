@@ -6,9 +6,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* (Дефект 1)[https://github.com/YuryFedoseev/Les1_1/issues/1]
-* (Дефект 2)[https://github.com/YuryFedoseev/Les1_1/issues/2]
-* (Дефект 3)[https://github.com/YuryFedoseev/Les1_1/issues/3]
+* [Дефект 1](https://github.com/YuryFedoseev/Les1_1/issues/1)
+* [Дефект 2](https://github.com/YuryFedoseev/Les1_1/issues/2)
+* [Дефект 3](https://github.com/YuryFedoseev/Les1_1/issues/3)
 
 
  ### Описание процесса тестирования
